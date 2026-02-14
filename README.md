@@ -37,5 +37,8 @@ npm start
 - If you get an error, ensure that **`skin.png` exists** and is **64×64 pixels**.
 - If you want to run it online, upload the skin file before executing the script.
 
+## Example of uses
+This feature is being planted into [Skin Stealer Discord Bot](https://dsc.gg/skinstealer) and you can use `/mc2rblx` and you will get the same result if you don't want to get through this hasle steps
+
 ## License
 This project is open-source and free to use!
